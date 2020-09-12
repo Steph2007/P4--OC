@@ -11,3 +11,7 @@
 	color: white!important;
 	font-weight: bold!important;
 }
+
+.img-responsive{
+	display: initial!important;
+}
