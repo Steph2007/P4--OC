@@ -9,6 +9,8 @@
 	font-weight: bold!important;
 }
 
-.img-responsive{
-	display: initial!important;
+@media(max-width: 767px){
+	.img-responsive{
+		display: initial!important;
+	}
 }

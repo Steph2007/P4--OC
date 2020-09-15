@@ -548,7 +548,7 @@ a[data-lightbox]:hover::before {
     color: #FFF;
     font-weight: 100;
     z-index: 1;
-    position: absolute;
+   /* position: absolute;*/
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
