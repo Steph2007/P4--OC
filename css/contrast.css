@@ -14,3 +14,11 @@
 		display: initial!important;
 	}
 }
+.row {
+	max-width: 100vw;
+	margin: auto;
+}
+
+.tc-white .backclair, .white .backclair{
+	color: white!important;
+}
