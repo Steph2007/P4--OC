@@ -1039,4 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    a[data-lightbox]:hover::before {
+        margin-left: 0;
+        transform: translate(-50%, -50%);
+    }
 }

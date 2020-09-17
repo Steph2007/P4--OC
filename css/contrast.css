@@ -8,14 +8,17 @@
 	color: white!important;
 	font-weight: bold!important;
 }
+.row {
+	max-width: 100vw;
+	margin: auto;
+}
+
+.tc-white .backclair, .white .backclair{
+	color: white!important;
+}
 
 @media(max-width: 767px){
 	.img-responsive{
 		display: initial!important;
 	}
 }
-.row {
-	max-width: 100vw;
-	margin: auto;
-}
-
