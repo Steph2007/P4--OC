@@ -1042,6 +1042,6 @@ h4 {
 
     a[data-lightbox]:hover::before {
         margin-left: 0;
-        transform: translate(-50%, -50%);
+        transform: translate(200%, -50%);
     }
 }
